@@ -1,0 +1,15 @@
+.cart-container{
+    display: flex;
+    align-items: center;
+}
+.imgCart {
+    width: 30px;
+    padding: 7px;
+}
+.cart-number{
+    text-align: center;
+    background-color: #647A54;
+    border-radius: 50%;
+    width: 20px;
+    border: 1px solid #2C3B31;
+}
